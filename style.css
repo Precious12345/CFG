@@ -1,0 +1,26 @@
+h1{
+  color:black;
+  {
+    color: black;
+    font-family: Helvetica;
+    font-size: 16px;
+  }
+
+  ul li {
+    background-color: #6495ED;
+  }
+
+
+
+   h2 {
+     color:green;
+     background: orange;
+    font-size: 20px;
+  }
+  ol li {
+    background-color:teal;
+  }
+
+
+
+}
