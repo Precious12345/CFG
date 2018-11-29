@@ -1,26 +1,36 @@
-h1{
-  color:red;
-  {
-    color: red;
-    font-family: Helvetica;
-    font-size: 16px;
+h1 {
+  text-align:center;
+  background: pink;
+  background-size: cover;
+  color: white;
+  font-family: Helvetica;
+  font-size: 70px;
   }
 
-  ul li {
-    background-color: #6495ED;
-  }
+h2 {
+  text-align: center;
+}
 
+p {
+  text-align:center;
+  background: pink;
+  background-size: cover;
+  color: white;
+  font-family: Helvetica;
+  font-size: 70px
+}
 
+img {
+  height: 450px;
+  width: 300px;
+  background-size: cover;
+  background-position: center;
+  border: pink;
+}
 
-   h2 {
-     color:red;
-     background: purple;
-    font-size: 20px;
-  }
-  ol li {
-    background-color:teal;
-  }
-
-
-
+.center {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 30%;
 }
